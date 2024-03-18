@@ -1,4 +1,5 @@
-### Hi there 👋
+<h4 align="center"><samp> Hi, I'm Han and  welcome to my Github 👋 </samp></h4>
+<h4 align="center"><samp>I'm a Fullstack Developer and a Home Foodie. I also like building things looks good ✨</samp></h4>
 
 <!--
 **ashhher/ashhher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +19,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <img width="250" src="https://i.gifer.com/FBzk.gif">
+</p>
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
