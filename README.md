@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
+
 <p align="center">
   <img width="250" src="./gits.gif">
 </p>
+
+<br />
 
 <p align="center"><samp>
 Check out my repos ⬇️  
