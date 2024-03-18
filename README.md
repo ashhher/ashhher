@@ -16,19 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <p align="center">
-  <img width="250" src="https://i.gifer.com/FBzk.gif">
+  <img width="250" src="./gits.gif">
 </p>
 
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
 </p>
+
