@@ -1,5 +1,5 @@
 <h4 align="center"><samp> Hi There, I'm Han 👋 </samp></h4>
-<h4 align="center"><samp>I'm a Fullstack Developer and a Home Foodie. I also like to build things looks good ✨</samp></h4>
+<h4 align="center"><samp>I'm a Fullstack Developer and a Home Foodie. I also like to build things look good ✨</samp></h4>
 
 <!--
 **ashhher/ashhher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
